@@ -1,0 +1,20 @@
+
+
+in box model there is visual reperesation of margin paddign border 
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReo_quRP1sQ-bKlxHjfHBWjZWEWJjSnuZVJQ&s
+
+
+padding : is is the distance of content from its tag boundary
+
+border: it is the width if tag\
+
+margin : the distance of tag ending boundary from other tags of main body tag
+
+
+flex  : this property is used to align item horizontaly or verticaly accroding to our need
+
+video : video tag is used to display video on a website it include a atritubute called controlls   and the source is given in source tag
+
+audio : audio tag is used to display audio on a website it include a atritubute called controlls   and the source is given in source tag
+
