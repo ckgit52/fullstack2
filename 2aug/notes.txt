@@ -1,0 +1,13 @@
+//NAVBAR : IS THE NAVIGATION MENU OF A WEBSITE
+            it is contained header tag
+//hover : is the process of taking mouse at some point
+
+<br> tag is use to give an empty line
+
+<a>  anchor tag is used to contain a text or some content which 
+ on clicking redirect us to link whihc is inserted into href=""
+
+
+ Footer : is used to give copywrited info into bottom of page
+
+it can be writen in div tag or can also be in footet tag
