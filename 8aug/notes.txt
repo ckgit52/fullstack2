@@ -1,0 +1,11 @@
+for loop is used to to similar task in a loop
+
+there are mainly two loops for loop, while loops
+
+
+
+
+for(let i; i<n ; i++){
+
+    //codes
+}
