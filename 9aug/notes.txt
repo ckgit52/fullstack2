@@ -1,0 +1,19 @@
+
+
+while(condition1 , cond2, cond3.....)  {
+
+
+    //codes are written here
+}
+
+
+(cond1 || cond2 || cond3.....)     || is callled  OR operator
+
+in this if any condition is true then the result is true
+
+
+
+(cond1 && cond2 && cond3.....)     && is callled  OR operator
+
+in this if any condition is false then the result is false
+all condition should be true for true result
